@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 
-from display.display import disp
+from display.dispdisplay import disp
 import site
 
 def main():
 	pass
 	disp()
-	print(help(site))
+	print()
 
 if __name__ == '__main__':
 	main()
